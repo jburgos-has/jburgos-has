@@ -104,24 +104,3 @@ Actualmente desarrollo aplicaciones web y móviles utilizando tecnologías moder
 
 🔗 https://portafolio-jordan-bc.vercel.app/
 
----
-
-## 📫 Conecta conmigo
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:burgosjordan194@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
----
-
-<div align="center">
-
-⭐ Gracias por visitar mi perfil.
-
-Siempre abierto a colaborar en proyectos de Desarrollo Web, Inteligencia Artificial, Automatización y UX/UI.
-
-</div>
